@@ -1,7 +1,5 @@
 # docker-rpi-java7
 
-[![dockeri.co]]
-
 带有 JAVA 的树莓派的 Docker 基础镜像。
 
 ## License
